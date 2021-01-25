@@ -1,2 +1,2 @@
-# masud.githb.io
+# masud.github.io
 MASUD's public website 
